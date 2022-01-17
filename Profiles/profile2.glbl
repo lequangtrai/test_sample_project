@@ -3,5 +3,5 @@
    <description></description>
    <name>profile2</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
 </GlobalVariableEntities>
