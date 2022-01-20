@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default - Copy</name>
+   <name>new then set as true</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
 </GlobalVariableEntities>
