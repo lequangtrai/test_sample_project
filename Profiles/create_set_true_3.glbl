@@ -3,5 +3,5 @@
    <description></description>
    <name>create_set_true_3</name>
    <tag></tag>
-   <defaultProfile>false</defaultProfile>
+   <defaultProfile>true</defaultProfile>
 </GlobalVariableEntities>
